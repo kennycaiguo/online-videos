@@ -1,5 +1,6 @@
 <?xml version=1.0?>
 <ListBucketResult xmlns="http://doc.s3.amazonaws.com/2006-03-01">
+  <Basic Url>https://commondatastorage.googleapis.com/gtv-videos-bucket/</Basic Url>
 <Name>gtv-videos-bucket</Name>
 <Prefix/>
 <Marker/>
